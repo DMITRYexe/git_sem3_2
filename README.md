@@ -2,3 +2,5 @@
 Repository for GB education. Seminar 2, part 2.
 
 Edited from GitHub.
+
+Edited on PC
